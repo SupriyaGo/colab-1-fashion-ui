@@ -137,7 +137,7 @@ export default function HomeScreen() {
 									<Fontisto size={15} name="heart-alt" color={"#878686"} />
 								</Pressable>
 							</View>
-							{/* Description */}
+							{/* = Description = */}
 							<View className="mt-2">
 								<ThemedText style={{ fontSize: 15 }}>
 									White Sweat shirt
